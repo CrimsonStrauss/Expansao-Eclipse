@@ -10,7 +10,7 @@
 
 ## 🚀 O que é o Expansão Eclipse?
 
-**Expansão Eclipse** é um sistema de automação desenvolvido pela **Eclipse Lunar** que **completa automaticamente cursos e atividades** da plataforma Expansão (Plurall) através da integração direta com a SEDUCSP. Utiliza **IA generativa (Gemini)** para resolver questões e inteligência artificial para navegação automatizada.
+**Expansão Eclipse** é um sistema de automação desenvolvido pela **Eclipse Lunar** que **completa automaticamente cursos e atividades** da plataforma Expansão  através da integração direta com a SEDUCSP. Utiliza **IA generativa (Gemini)** para resolver questões e inteligência artificial para navegação automatizada.
 
 ---
 
